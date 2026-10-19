@@ -1,0 +1,7 @@
+{
+  "name": "xcresult-parallel-parser",
+  "version": "1.0.0",
+  "description": "High-speed tokenized parsing extractor converting native binary Apple .xcresult test bundle packages into human-readable Markdown telemetry reports.",
+  "main": "parser_engine.js",
+  "type": "module"
+}
